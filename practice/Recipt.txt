@@ -1,0 +1,21 @@
+Price of item1: Rs.45
+Price of item2: Rs.465
+Price of item3: Rs.564
+Price of item4: Rs.64
+Price of item5: Rs.654
+Price of item6: Rs.654
+Price of item7: Rs.654
+Price of item8: Rs.78
+Total bill: Rs.3178
+
+Price of item1: Rs.45
+Price of item2: Rs.5546
+Price of item3: Rs.564
+Price of item4: Rs.78
+Price of item5: Rs.54
+Price of item6: Rs.564
+Price of item7: Rs.21
+Price of item8: Rs.2145
+Price of item9: Rs.465
+Total bill: Rs.9482
+
