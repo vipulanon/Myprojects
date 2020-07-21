@@ -1,2 +1,2 @@
 # Myprojects
-Projects on Tkinter and caht bot
+Projects on Tkinter and chat bot
